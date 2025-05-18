@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SOLEDITY, UI/UX DESIGNS...<br>👯 I’m looking to collaborate on BLOCKCHAIN PROJECTS.<br>🤝 I’m looking for help with SOLEDITY, NODE.JS, REACT. <br>🌱 I’m currently learning SOLEDITY, NODE.JS, REACT. <br>💬 Ask me about DINNER.<br>⚡ Fun fact - 404 NOT FOUND.
+🔭 I’m currently working on Dream Project, UI/UX DESIGNS...<br>👯 I’m looking to collaborate on FLUTTER PROJECTS.<br>🤝 I’m looking for help with FLUTTER X FIREBASE, NODE.JS, REACT.<br>💬 Ask me about DINNER.<br>⚡ Fun fact - 404 NOT FOUND.
 
 
 ## 🌐 Socials:
